@@ -20,4 +20,4 @@ publish view
     php artisan vendor:publish --provider="Rosyiid1440\Adminlte\Adminlte"
 
 
-File example.blade.php in template/sbadmin/layouts for your main content
+File example.blade.php in template/adminlte/layouts for your main content
