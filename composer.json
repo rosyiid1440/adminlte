@@ -1,0 +1,18 @@
+{
+    "name": "rosyiid1440/adminlte",
+    "description": "Template admin lte 3",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rosyiid1440",
+            "email": "cayutub@gmail.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4":{
+			"Rosyiid1440\\Adminlte\\":"src"
+		}
+	}
+}
